@@ -1,0 +1,4 @@
+*.log
+logsES.json
+OpenSearch/*/certs
+ca.pem
